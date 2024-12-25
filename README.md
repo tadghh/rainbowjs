@@ -1,8 +1,9 @@
 # rainbowjs
-A simple JS class to add a rainbow outline
+A simple JS class to add a dynamic rainbow outline
 
 ![image](https://github.com/user-attachments/assets/16a62abc-902d-4682-8f89-9c68dc453afa)
 
+[Live Demo](https://tadgh.dev/highlightjs/)
 
 # Usage
 
